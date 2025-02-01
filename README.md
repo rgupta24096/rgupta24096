@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Gupta</h1>
-<h3 align="center">A passionate Linux and Cloud Engineer from India</h3>
+<h3 align="center">A passionate Technical Support & System Administrator from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgupta24096&label=Profile%20views&color=0e75b6&style=flat" alt="rgupta24096" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Cloud and Devops**
 
-- 💬 Ask me about **Linux and Cloud**
+- 💬 Ask me about **Windows,Linux,Cloud,Devops**
 
 - 📫 How to reach me **rgupta24096@gmail.com**
 
