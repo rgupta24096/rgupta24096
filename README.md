@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Cloud and Devops**
 
-- 💬 Ask me about **Windows,Linux,Cloud,Devops**
+- 💬 Ask me about **Windows, Linux, Cloud and Devops**
 
 - 📫 How to reach me **rgupta24096@gmail.com**
 
